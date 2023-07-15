@@ -1,0 +1,1 @@
+# Interexy_junior_python_dev_task
